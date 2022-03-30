@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://abhilashajha123.github.io/csb-5jtcsk/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/main.07100db5.chunk.js",
-    "main.js.map": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/main.07100db5.chunk.js.map",
+    "main.js": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/main.3f9dbae0.chunk.js",
+    "main.js.map": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/main.3f9dbae0.chunk.js.map",
     "runtime-main.js": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/runtime-main.591335d6.js",
     "runtime-main.js.map": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/runtime-main.591335d6.js.map",
-    "static/js/2.b21dc211.chunk.js": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/2.b21dc211.chunk.js",
-    "static/js/2.b21dc211.chunk.js.map": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/2.b21dc211.chunk.js.map",
+    "static/js/2.e896b7c1.chunk.js": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/2.e896b7c1.chunk.js",
+    "static/js/2.e896b7c1.chunk.js.map": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/2.e896b7c1.chunk.js.map",
     "index.html": "https://abhilashajha123.github.io/csb-5jtcsk/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://abhilashajha123.github.io/csb-5jtcsk/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.b21dc211.chunk.js.LICENSE.txt": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/2.b21dc211.chunk.js.LICENSE.txt"
+    "static/js/2.e896b7c1.chunk.js.LICENSE.txt": "https://abhilashajha123.github.io/csb-5jtcsk/static/js/2.e896b7c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.591335d6.js",
-    "static/js/2.b21dc211.chunk.js",
+    "static/js/2.e896b7c1.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.07100db5.chunk.js"
+    "static/js/main.3f9dbae0.chunk.js"
   ]
 }
